@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1700492837~exp=1700493437~hmac=38761b4cabb7e67cc0bb6f0d6ebe484ca73fd8d6fe5459556ccd4b36d7c7d678F)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">Lazy student that sometimes does some cool shit, but doesnt upload it here.</h3>
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966")
+(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif")
 
 - 🌱 I’m currently learning **Encryption**
 
