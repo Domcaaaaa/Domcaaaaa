@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">Lazy student that sometimes does some cool shit, but doesnt upload it here.</h3>
 
-- 🌱 I’m currently learning **Encryption**
+- 🌱 I’m currently learning **Java D:**
 
 - 📫 How to reach me **Discord :***
 
