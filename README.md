@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">Computer science student that works as backend developer) </h3>
+<h3 align="center">Computer science student that works as backend developer </h3>
 
 - 🌱 I’m currently learning **High end system development**
 
